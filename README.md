@@ -1,1 +1,11 @@
-# Financial-Indicators
+# Technical Indicator Calculator (Python)
+
+The Technical Indicator Calculator is a lightweight Python project designed to introduce the fundamentals of financial technical analysis in a simple and accessible manner. It focuses on computing widely-used market indicators, including Simple Moving Average (SMA), Exponential Moving Average (EMA), Relative Strength Index (RSI), and Bollinger Bands. All computations are implemented in pure Python, making the project easy to understand, modify, and extend for educational purposes or Hacktoberfest contributions.
+
+This project allows users to analyze historical price data and derive insights about trends, momentum, and market volatility. SMA and EMA help track average price movements over specific periods, while RSI identifies overbought or oversold conditions. Bollinger Bands provide a visual representation of price volatility and potential price reversals. By combining these indicators, users can gain a foundational understanding of how technical analysis is applied in financial markets.
+
+The project is designed for learners, students, and developers who want to explore financial analytics programmatically without relying on external libraries. It abstracts away the complexity of real trading data while demonstrating essential calculation techniques. Users can experiment with different periods, standard deviations, and datasets to see how indicators react to price changes, fostering a practical understanding of market analysis.
+
+Moreover, the Technical Indicator Calculator serves as a foundation for more advanced projects, such as algorithmic trading strategies, automated signal generation, or portfolio monitoring. Despite its simplicity, it provides a robust framework to experiment with key financial concepts in a safe and controlled environment. The project encourages exploration of market patterns, risk assessment, and the development of analytical intuition using Python as a tool.
+
+Overall, the Technical Indicator Calculator bridges theoretical financial concepts with practical programming exercises. It empowers contributors to learn, experiment, and extend their understanding of technical analysis, offering a clear and concise introduction to one of the most widely used approaches in financial markets.
